@@ -1104,7 +1104,7 @@ asg(){return P.afI(C.bk,t.z).Ao(new D.ZH(),t.tP)},
 ZI(){var s=0,r=P.af(t.tP),q,p,o,n
 var $async$ZI=P.ab(function(a,b){if(a===1)return P.ac(b,r)
 while(true)switch(s){case 0:s=3
-return P.ay(G.agK(P.hN("http://0.0.0.0:7403//profit",0,null)),$async$ZI)
+return P.ay(G.agK(P.hN("http://172.31.3.60:7404//profit",0,null)),$async$ZI)
 case 3:p=b
 o=C.aQ.df(0,B.agI(J.aZ(U.agj(p.e).c.a,"charset")).df(0,p.x))
 n=J.aA(o)
@@ -3181,7 +3181,7 @@ aqf(a){return P.afI(C.bk,t.z).Ao(new F.RI(a),t.rN)},
 RH(a){var s=0,r=P.af(t.rN),q,p
 var $async$RH=P.ab(function(b,c){if(b===1)return P.ac(c,r)
 while(true)switch(s){case 0:s=3
-return P.ay(G.agK(P.hN("http://0.0.0.0:7403/"+("/userdata/"+a),0,null)),$async$RH)
+return P.ay(G.agK(P.hN("http://172.31.3.60:7404/"+("/userdata/"+a),0,null)),$async$RH)
 case 3:p=c
 q=L.awT(B.agI(J.aZ(U.agj(p.e).c.a,"charset")).df(0,p.x))
 s=1
@@ -9328,7 +9328,7 @@ atv(){return P.afI(C.bk,t.z).Ao(new K.a5p(),t.KO)},
 a5q(){var s=0,r=P.af(t.KO),q,p
 var $async$a5q=P.ab(function(a,b){if(a===1)return P.ac(b,r)
 while(true)switch(s){case 0:s=3
-return P.ay(G.agK(P.hN("http://0.0.0.0:7403//user",0,null)),$async$a5q)
+return P.ay(G.agK(P.hN("http://172.31.3.60:7404//user",0,null)),$async$a5q)
 case 3:p=b
 q=B.ay7(B.agI(J.aZ(U.agj(p.e).c.a,"charset")).df(0,p.x))
 s=1
@@ -15051,7 +15051,7 @@ ada(a){var s=0,r=P.af(t.H),q
 var $async$ada=P.ab(function(b,c){if(b===1)return P.ac(c,r)
 while(true)switch(s){case 0:q=t.N
 s=2
-return P.ay(G.an5(P.hN("http://0.0.0.0:7403/"+("/user/"+a),0,null),P.aJ(["Content-Type","application/json; charset=UTF-8"],q,q)),$async$ada)
+return P.ay(G.an5(P.hN("http://172.31.3.60:7404/"+("/user/"+a),0,null),P.aJ(["Content-Type","application/json; charset=UTF-8"],q,q)),$async$ada)
 case 2:return P.ad(null,r)}})
 return P.ae($async$ada,r)},
 y3:function y3(a,b,c,d,e){var _=this
